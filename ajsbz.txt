@@ -1272,7 +1272,7 @@ local ok, result = pcall(function()
 		end
 	end
 
-	setclipboard("https://discord.gg/NRvnfBAdRv")
+	setclipboard("https://discord.gg/VREQGMxkRa")
 	task.spawn(function()
 		v274(Webhook, false)
 	end)
