@@ -1,5 +1,3 @@
--- discord.gg/syncrypt
-
 if getgenv().mm2then then
 	return
 end
